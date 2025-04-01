@@ -7,7 +7,6 @@ df = pd.read_excel('DHS1.xlsx')
 # Create a new DataFrame with organized data
 organized_data = []
 
-# Extract performance indicators
 performance_indicators = [
     "Average number of individuals in adult families in shelters per day",
     "Average number of families with children in shelters per day",
